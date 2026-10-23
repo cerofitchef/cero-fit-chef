@@ -1,0 +1,8 @@
+{
+  "name": "cero-fit-cheff",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^1.52.0"
+  }
+}
